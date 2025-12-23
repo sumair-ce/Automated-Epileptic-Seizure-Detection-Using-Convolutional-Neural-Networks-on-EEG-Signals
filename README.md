@@ -25,7 +25,7 @@
 </ul>
 
 <h2>Dataset</h2>
-<p>Uses the <a href="https://www.kaggle.com/datasets/subirbiswas19/eeg-dataset" target="_blank">subirbiswas19/eeg-dataset</a> on Kaggle (pre-processed UCI Epileptic Seizure Recognition Dataset, Bonn University). 11,500 samples, 178 time points per second-long EEG recording.</p>
+<p>Uses the <a href="https://www.kaggle.com/datasets/subirbiswas19/eeg-dataset" target="_blank">subirbiswas19/eeg-dataset</a> on Kaggle (CHB-MIT EEG Epileptic Seizure Recognition Dataset). 11,500 samples, 178 time points per second-long EEG recording.</p>
 
 <h2>Model Performance</h2>
 <h3>Performance Metrics</h3>
