@@ -60,7 +60,7 @@
 
 <h2>Acknowledgments</h2>
 <ul>
-    <li>UCI Epileptic Seizure Recognition Dataset (Bonn University)</li>
+    <li> CHB-MIT EEG - Epileptic Seizure Recognition Dataset</li>
     <li>Kaggle dataset by subirbiswas19</li>
     <li>Open-source deep learning frameworks (Keras/TensorFlow)</li>
 </ul>
